@@ -4,6 +4,10 @@ A blogs website created with ReactJS
 
 ~ How to open...
 
+- Install nodeJS
+- npx create-react-app (name of parent folder)
+- change all identical files (src, public) and add the "data" folder.
+
 Opening the Website:
 - Open terminal (Ctrl + Shift + `) on VS Code or open Command prompt.
 - Set the directory to the name of the folder containing all the files.
